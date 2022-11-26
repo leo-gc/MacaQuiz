@@ -1,4 +1,5 @@
-# Projeto Integrador Interdisciplinar - Macaquiz: um jogo educativo sobre programação em python com temática de macacos.
+# Projeto Integrador Interdisciplinar - Macaquiz
+Um jogo educativo sobre programação em python com temática de macacos.
 
 Foram criados os projetos Macaquiz e Macacada, sendo que Macaquiz contém o quiz em si, o qual foi inteiramente desenvolvido por mim. O projeto Macacada contém um jogo com personagem e movimentação desenvolvido por meu colega no mesmo projeto, porém não conseguimos integrar esse projeto ao principal, que é o Macaquiz.
 
