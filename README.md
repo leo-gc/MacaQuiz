@@ -1,7 +1,4 @@
-# Macaquiz
-Projeto desenvolvido utilizando Java e MySQL durante meu primeiro semestre de graduação em Ciência da Computação, no ano de 2022. Só estou postando em meu GitHub agora porque ainda não havia notado a importância do GitHub no mercado de trabalho referente ao ramo da computação.
-
-Projeto Integrador Interdisciplinar - Macaquiz: um jogo educativo sobre programação em python com temática de macacos.
+# Projeto Integrador Interdisciplinar - Macaquiz: um jogo educativo sobre programação em python com temática de macacos.
 
 Foram criados os projetos Macaquiz e Macacada, sendo que Macaquiz contém o quiz em si, o qual foi inteiramente desenvolvido por mim. O projeto Macacada contém um jogo com personagem e movimentação desenvolvido por meu colega no mesmo projeto, porém não conseguimos integrar esse projeto ao principal, que é o Macaquiz.
 
